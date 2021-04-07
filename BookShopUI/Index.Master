@@ -1,0 +1,65 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Index.master.cs" Inherits="BookShopUI.Index" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+    <link rel="Stylesheet" href="CSS/BookShopStyle01.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+<form id="form1" runat="server">
+    <div class="header">
+        <h1>叮叮书店</h1>
+    <div class="header1">    
+        <asp:Label ID="username" runat="server" Text=""></asp:Label>
+        <asp:Button ID="Button2" runat="server" Text="注销"  BorderStyle="None" 
+            Font-Underline="true" onclick="Button2_Click" CssClass="btnExit"/>
+        <asp:Button ID="Button1" runat="server" Text="登录"  BorderStyle="None" 
+            Font-Underline="true" onclick="Button1_Click" CssClass="btnLogin"/>
+        <a href="userinformation.aspx" class="togo">个人信息</a>
+        <a href="changepwd.aspx" class="togo">修改密码</a>
+        <a href="Register.aspx" class="togo">注册</a>
+    </div>    
+    </div>
+
+    <div class="header-photo">     
+        <asp:Image ID="Image1" runat="server" ImageUrl="./CSS/image/P0.png" />
+    </div>
+    <div class="topnav">
+        <a href="index.aspx">首页</a>
+        <a href="Content.aspx">联系我们</a>
+        <a href="Curt.aspx">购物车</a>
+   </div>
+    <div class="row">
+        <div class="column side">
+            <h2>系统管理区</h2>
+            <div class="systemadmin">                
+                <asp:HyperLink ID="Curt" runat="server" NavigateUrl="Curt.aspx">购物车</asp:HyperLink><br />
+                <asp:HyperLink ID="Order" runat="server" NavigateUrl="Order.aspx">我的订单</asp:HyperLink><br />                
+                <asp:HyperLink ID="OrderAdmin" runat="server" NavigateUrl="OrderAdmin.aspx">订单管理</asp:HyperLink><br />
+                <asp:HyperLink ID="BookAdmin" runat="server" NavigateUrl="BookAdmin.aspx">图书管理</asp:HyperLink><br />
+                <asp:HyperLink ID="BookAdd" runat="server" NavigateUrl="BookAdd.aspx">图书添加</asp:HyperLink><br />
+                <asp:HyperLink ID="UserAdmin" runat="server" NavigateUrl="UserAdmin.aspx">用户管理</asp:HyperLink><br />
+
+            </div>
+            <br />
+        </div>
+        <div class="column main">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                
+            </asp:ContentPlaceHolder>
+        </div>
+       
+        
+    </div>
+    </form>
+    <div class="footer">
+        <h4>Copyright(C)<a href="index.html">叮叮书店</a> 2016-2018,All Rights Reserved|京ICP证000001号音响制品许可证</h4>
+        <h4>通讯地址：清华大学学研大厦A座 读者服务部&nbsp;&nbsp;电话：(010)62781733&nbsp;&nbsp;网管信箱：netadmin@tup.tsinghua.edu.cn</h4>
+    </div>
+</body>
+
+</html>

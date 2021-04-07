@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{54B65584-91AD-4D36-A8FF-808A29C6A886}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BookShopUI</RootNamespace>
+    <AssemblyName>BookShopUI</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Data\BookShop.mdf" />
+    <Content Include="App_Data\BookShop_log.ldf">
+      <DependentUpon>BookShop.mdf</DependentUpon>
+    </Content>
+    <Content Include="BookAdd.aspx" />
+    <Content Include="BookAdmin.aspx" />
+    <Content Include="BookDetail.aspx" />
+    <Content Include="changeinformation.aspx" />
+    <Content Include="changepwd.aspx" />
+    <Content Include="Content.aspx" />
+    <Content Include="CSS\BookShopStyle01.css" />
+    <Content Include="CSS\findpsw.css" />
+    <Content Include="CSS\image\P0.png" />
+    <Content Include="CSS\image\P1.jpg" />
+    <Content Include="CSS\image\P2.jpg" />
+    <Content Include="CSS\image\P3.jpg" />
+    <Content Include="CSS\image\P4.jpg" />
+    <Content Include="CSS\Login.css" />
+    <Content Include="CSS\Register.css" />
+    <Content Include="Curt.aspx" />
+    <Content Include="findpsw.aspx" />
+    <Content Include="index.aspx" />
+    <Content Include="Login.aspx" />
+    <Content Include="Order.aspx" />
+    <Content Include="OrderAdmin.aspx" />
+    <Content Include="Register.aspx" />
+    <Content Include="UserAdmin.aspx" />
+    <Content Include="UserDel.aspx" />
+    <Content Include="userinformation.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BookAdd.aspx.cs">
+      <DependentUpon>BookAdd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BookAdd.aspx.designer.cs">
+      <DependentUpon>BookAdd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BookAdmin.aspx.cs">
+      <DependentUpon>BookAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BookAdmin.aspx.designer.cs">
+      <DependentUpon>BookAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BookDetail.aspx.cs">
+      <DependentUpon>BookDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BookDetail.aspx.designer.cs">
+      <DependentUpon>BookDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="changeinformation.aspx.cs">
+      <DependentUpon>changeinformation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="changeinformation.aspx.designer.cs">
+      <DependentUpon>changeinformation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="changepwd.aspx.cs">
+      <DependentUpon>changepwd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="changepwd.aspx.designer.cs">
+      <DependentUpon>changepwd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Content.aspx.cs">
+      <DependentUpon>Content.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Content.aspx.designer.cs">
+      <DependentUpon>Content.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Curt.aspx.cs">
+      <DependentUpon>Curt.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Curt.aspx.designer.cs">
+      <DependentUpon>Curt.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="findpsw.aspx.cs">
+      <DependentUpon>findpsw.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="findpsw.aspx.designer.cs">
+      <DependentUpon>findpsw.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Index.Master.cs">
+      <DependentUpon>Index.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Index.Master.designer.cs">
+      <DependentUpon>Index.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Order.aspx.cs">
+      <DependentUpon>Order.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Order.aspx.designer.cs">
+      <DependentUpon>Order.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OrderAdmin.aspx.cs">
+      <DependentUpon>OrderAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OrderAdmin.aspx.designer.cs">
+      <DependentUpon>OrderAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="sqlConnection.cs" />
+    <Compile Include="UserAdmin.aspx.cs">
+      <DependentUpon>UserAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserAdmin.aspx.designer.cs">
+      <DependentUpon>UserAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserDel.aspx.cs">
+      <DependentUpon>UserDel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserDel.aspx.designer.cs">
+      <DependentUpon>UserDel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="userinformation.aspx.cs">
+      <DependentUpon>userinformation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="userinformation.aspx.designer.cs">
+      <DependentUpon>userinformation.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BookShopBLL\BookShopBLL.csproj">
+      <Project>{C6FC3C7F-7D0D-49A1-9D58-EE65BC339242}</Project>
+      <Name>BookShopBLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BookShopModel\BookShopModel.csproj">
+      <Project>{D1CF5E26-4D4F-4C72-A457-90BBD06BDBD0}</Project>
+      <Name>BookShopModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Index.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Uploads\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>31863</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,54 @@
+C:\Users\Administrator\Desktop\电子商务\EC_BookShop\BookShopBLL\obj\Debug\BookShopBLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\电子商务\EC_BookShop\BookShopBLL\bin\Debug\BookShopBLL.dll
+C:\Users\Administrator\Desktop\电子商务\EC_BookShop\BookShopBLL\bin\Debug\BookShopBLL.pdb
+C:\Users\Administrator\Desktop\电子商务\EC_BookShop\BookShopBLL\bin\Debug\BookShopDAL.dll
+C:\Users\Administrator\Desktop\电子商务\EC_BookShop\BookShopBLL\bin\Debug\BookShopModel.dll
+C:\Users\Administrator\Desktop\电子商务\EC_BookShop\BookShopBLL\bin\Debug\BookShopDAL.pdb
+C:\Users\Administrator\Desktop\电子商务\EC_BookShop\BookShopBLL\bin\Debug\BookShopModel.pdb
+C:\Users\Administrator\Desktop\电子商务\EC_BookShop\BookShopBLL\obj\Debug\BookShopBLL.dll
+C:\Users\Administrator\Desktop\电子商务\EC_BookShop\BookShopBLL\obj\Debug\BookShopBLL.pdb
+C:\Users\Administrator\Desktop\电子商务\EC_10\EC_BookShop\BookShopBLL\bin\Debug\BookShopBLL.dll
+C:\Users\Administrator\Desktop\电子商务\EC_10\EC_BookShop\BookShopBLL\bin\Debug\BookShopBLL.pdb
+C:\Users\Administrator\Desktop\电子商务\EC_10\EC_BookShop\BookShopBLL\bin\Debug\BookShopDAL.dll
+C:\Users\Administrator\Desktop\电子商务\EC_10\EC_BookShop\BookShopBLL\bin\Debug\BookShopModel.dll
+C:\Users\Administrator\Desktop\电子商务\EC_10\EC_BookShop\BookShopBLL\bin\Debug\BookShopDAL.pdb
+C:\Users\Administrator\Desktop\电子商务\EC_10\EC_BookShop\BookShopBLL\bin\Debug\BookShopModel.pdb
+C:\Users\Administrator\Desktop\电子商务\EC_10\EC_BookShop\BookShopBLL\obj\Debug\BookShopBLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\电子商务\EC_10\EC_BookShop\BookShopBLL\obj\Debug\BookShopBLL.dll
+C:\Users\Administrator\Desktop\电子商务\EC_10\EC_BookShop\BookShopBLL\obj\Debug\BookShopBLL.pdb
+C:\Users\TSC\Desktop\EC_10\EC_BookShop\BookShopBLL\bin\Debug\BookShopBLL.dll
+C:\Users\TSC\Desktop\EC_10\EC_BookShop\BookShopBLL\bin\Debug\BookShopBLL.pdb
+C:\Users\TSC\Desktop\EC_10\EC_BookShop\BookShopBLL\bin\Debug\BookShopDAL.dll
+C:\Users\TSC\Desktop\EC_10\EC_BookShop\BookShopBLL\bin\Debug\BookShopModel.dll
+C:\Users\TSC\Desktop\EC_10\EC_BookShop\BookShopBLL\bin\Debug\BookShopDAL.pdb
+C:\Users\TSC\Desktop\EC_10\EC_BookShop\BookShopBLL\bin\Debug\BookShopModel.pdb
+C:\Users\TSC\Desktop\EC_10\EC_BookShop\BookShopBLL\obj\Debug\BookShopBLL.csprojResolveAssemblyReference.cache
+C:\Users\TSC\Desktop\EC_10\EC_BookShop\BookShopBLL\obj\Debug\BookShopBLL.dll
+C:\Users\TSC\Desktop\EC_10\EC_BookShop\BookShopBLL\obj\Debug\BookShopBLL.pdb
+C:\Users\TSC\Desktop\EC_BookShop\BookShopBLL\bin\Debug\BookShopBLL.dll
+C:\Users\TSC\Desktop\EC_BookShop\BookShopBLL\bin\Debug\BookShopBLL.pdb
+C:\Users\TSC\Desktop\EC_BookShop\BookShopBLL\bin\Debug\BookShopDAL.dll
+C:\Users\TSC\Desktop\EC_BookShop\BookShopBLL\bin\Debug\BookShopModel.dll
+C:\Users\TSC\Desktop\EC_BookShop\BookShopBLL\bin\Debug\BookShopDAL.pdb
+C:\Users\TSC\Desktop\EC_BookShop\BookShopBLL\bin\Debug\BookShopModel.pdb
+C:\Users\TSC\Desktop\EC_BookShop\BookShopBLL\obj\Debug\BookShopBLL.csprojResolveAssemblyReference.cache
+C:\Users\TSC\Desktop\EC_BookShop\BookShopBLL\obj\Debug\BookShopBLL.dll
+C:\Users\TSC\Desktop\EC_BookShop\BookShopBLL\obj\Debug\BookShopBLL.pdb
+D:\ASPWeb\EC_10\BookShopBLL\bin\Debug\BookShopBLL.dll
+D:\ASPWeb\EC_10\BookShopBLL\bin\Debug\BookShopBLL.pdb
+D:\ASPWeb\EC_10\BookShopBLL\bin\Debug\BookShopDAL.dll
+D:\ASPWeb\EC_10\BookShopBLL\bin\Debug\BookShopModel.dll
+D:\ASPWeb\EC_10\BookShopBLL\bin\Debug\BookShopDAL.pdb
+D:\ASPWeb\EC_10\BookShopBLL\bin\Debug\BookShopModel.pdb
+D:\ASPWeb\EC_10\BookShopBLL\obj\Debug\BookShopBLL.csprojResolveAssemblyReference.cache
+D:\ASPWeb\EC_10\BookShopBLL\obj\Debug\BookShopBLL.dll
+D:\ASPWeb\EC_10\BookShopBLL\obj\Debug\BookShopBLL.pdb
+C:\Users\SYK\Documents\WeChat Files\kafeixinyuan\FileStorage\File\2021-04\仁济第02组-课程项目代码\仁济第02组-课程项目代码\bookshop\BookShopBLL\bin\Debug\BookShopBLL.dll
+C:\Users\SYK\Documents\WeChat Files\kafeixinyuan\FileStorage\File\2021-04\仁济第02组-课程项目代码\仁济第02组-课程项目代码\bookshop\BookShopBLL\bin\Debug\BookShopBLL.pdb
+C:\Users\SYK\Documents\WeChat Files\kafeixinyuan\FileStorage\File\2021-04\仁济第02组-课程项目代码\仁济第02组-课程项目代码\bookshop\BookShopBLL\bin\Debug\BookShopDAL.dll
+C:\Users\SYK\Documents\WeChat Files\kafeixinyuan\FileStorage\File\2021-04\仁济第02组-课程项目代码\仁济第02组-课程项目代码\bookshop\BookShopBLL\bin\Debug\BookShopModel.dll
+C:\Users\SYK\Documents\WeChat Files\kafeixinyuan\FileStorage\File\2021-04\仁济第02组-课程项目代码\仁济第02组-课程项目代码\bookshop\BookShopBLL\bin\Debug\BookShopDAL.pdb
+C:\Users\SYK\Documents\WeChat Files\kafeixinyuan\FileStorage\File\2021-04\仁济第02组-课程项目代码\仁济第02组-课程项目代码\bookshop\BookShopBLL\bin\Debug\BookShopModel.pdb
+C:\Users\SYK\Documents\WeChat Files\kafeixinyuan\FileStorage\File\2021-04\仁济第02组-课程项目代码\仁济第02组-课程项目代码\bookshop\BookShopBLL\obj\Debug\BookShopBLL.csprojResolveAssemblyReference.cache
+C:\Users\SYK\Documents\WeChat Files\kafeixinyuan\FileStorage\File\2021-04\仁济第02组-课程项目代码\仁济第02组-课程项目代码\bookshop\BookShopBLL\obj\Debug\BookShopBLL.dll
+C:\Users\SYK\Documents\WeChat Files\kafeixinyuan\FileStorage\File\2021-04\仁济第02组-课程项目代码\仁济第02组-课程项目代码\bookshop\BookShopBLL\obj\Debug\BookShopBLL.pdb

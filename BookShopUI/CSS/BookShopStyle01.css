@@ -1,0 +1,397 @@
+﻿1f* {
+  box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+/* 头部样式 */
+.header{
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+}
+/* 头部样式1 */
+.header1
+{
+	position:absolute;
+	top:14.5%;
+	right:1.5%;
+	color:#FFF;
+}
+/* 登录图片 */
+#Image1{
+	width:80px;
+	height:80px;
+	}
+.header-photo{
+	position:absolute;
+	top:2%;
+	right:2%;
+	}
+/* 导航栏样式 */
+.topnav {
+  overflow: hidden;
+  background-color: #009;
+  font-size:16px;
+  font-family:微软雅黑;
+}
+/* 导航链接样式 */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f8f8f8;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  overflow: hidden;
+}
+
+/* 链接 - 修改颜色 */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* 创建三列 */
+.column {
+  float: left;
+  padding: 10px;
+  font-size:18px;
+  font-family:微软雅黑;
+
+}
+
+/* 左右两侧宽度 */
+.column.side {
+  width: 20%;
+}
+/* 中间区域宽度 */
+.column.main {
+  width: 65%;
+  padding:40px;
+  border-right-color:#009; 
+  border-right-width:1px; 
+  border-right-style:solid;
+  border-left-color:#009; 
+  border-left-width:1px; 
+  border-left-style:solid;
+}
+
+/* 列后面清除浮动 */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* 响应式布局 - 宽度小于600px时设置上下布局 */
+@media screen and (max-width: 600px) {
+  .column.side, .column.middle {
+    width: 100%;
+  }
+}
+
+/* 底部样式 */
+.footer {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 5px;
+  font-size:16px;
+  font-family:微软雅黑;
+
+}
+.mnuTopMenu
+{
+    background-color:Transparent;
+    font-family: 宋体;
+    font-size: 12px;
+    position:relative;
+    top:34px;
+}
+
+.DynamicMenuStyle /*动态菜单矩形区域样式*/
+{
+    background-color: white;
+    border: solid 1px #ACC3DF;
+    padding: 1px 1px 1px 1px;
+    text-align: left;
+}
+
+.DynamicHoverStyle /*动态菜单项:鼠标悬停时的样式*/
+{
+    background-color: #F7DFA5; /*#7C6F57;*/
+    color: #333333;
+}
+
+.DynamicSelectedStyle /*动态菜单项:选择时的样式*/
+{
+    /*background-color:Gainsboro;*/
+    color: red;
+}
+
+.DynamicMenuItemStyle /*动态菜单项样式*/
+{
+    padding: 2px 5px 2px 5px;
+    color: #333333;
+}
+
+
+.StaticSelectedStyle /*静态菜单项:选择时的样式*/
+{
+    /*background-color:Gainsboro;*/
+    color: red;
+}
+
+.StaticMenuItemStyle /*静态菜单项样式*/
+{
+    cursor: hand;
+    padding: 2px 5px 2px 5px;
+    color: #333333;
+    background-color::Transparent;
+}
+
+.StaticHoverStyle /*静态菜单项:鼠标悬停时的样式*/
+{
+    background-color: #84BCCD; /*#7C6F57;*/
+    cursor: hand;
+    color: #333333;
+}
+
+
+
+
+
+/*UserDel样式*/
+.UD-title
+{
+    text-align:center;
+    }
+.UD-table
+{
+    padding-left:30%;
+    text-align:center;
+    }
+.UD-bottom
+{
+    text-align:center;
+    }
+/*UserAdmin样式*/
+.UA-title
+{
+    text-align:center;
+    }
+.UA-table
+{
+    padding-left:30%;
+    text-align:center;
+    }
+.UA-bottom
+{
+    text-align:center;
+    }
+/*changeinformation样式*/
+.CI{
+	border:2px solid;
+	}
+.CI-title{
+	text-align:center;
+	}
+.CIUN{
+	text-align:center;
+	}
+.CIE{
+	text-align:center;
+	}
+.CIT{
+	text-align:center;
+	}
+.CAD{
+	text-align:center;
+	}
+.CI-bottom{
+	text-align:center;
+	}
+
+/*changepwd样式*/
+.CP{
+	height:300px;
+	border:2px solid;
+	}
+.CP-title{
+	text-align:center;
+	}
+.old-pwd{
+	text-align:center;
+	}
+.new-pwd{
+	text-align:center;
+	}
+.CP-bottom{
+	text-align:center;
+	}
+
+/*userinformation样式*/
+.UI{
+	height:300px;
+	border:2px solid;
+	}
+.UI-title{
+	text-align:center;
+	}
+.UN{
+	text-align:center;
+	}
+.UE{
+	text-align:center;
+	}
+.UT{
+	text-align:center;
+	}
+.UAD{
+	text-align:center;
+	}
+.UI-bottom{
+	text-align:center;
+	}
+/* 左右两侧宽度 */
+.column.side{
+  width: 20%;
+  padding-left:5%;
+}
+
+/*首页登录按钮*/
+.btnLogin,.btnExit
+{
+	background-color:#000099;
+	color:white;
+	font-size:14px;
+	height:16px;
+	line-height:16px;
+}
+.togo{
+	color:white;
+	text-decoration:none;
+	text-align:center;
+	margin-top:10px;
+	font-size:14px;
+	}
+/*BookAdmin样式*/
+.BAM-table th td
+{
+    
+    margin: 20px 0 10px 0;
+    }
+.BAM-bottom
+{
+    text-align:center;    
+    }
+.booknumber,.book,.bookname,.bookauthor,.author,.number,.price,.note,.delate
+{
+    width:130px;
+    height:100px;
+    text-align:center;
+        }  
+/*图书添加页面*/
+.BookAdd1
+{
+	text-align:center;
+	}
+
+
+/*BookDetail
+#labBookID,#labBookAuthor,#labBookPrice,#labBookFrom,#labBookNum
+{
+    width:200px;
+    height:120px;
+    text-align:center;
+    }*/
+    
+ .i-BookID,.i-BookName,.i-Price,.i-BookNum,.i-BookAdd
+{
+    width:180px;
+    height:100px;
+    text-align:center;
+    }
+.i-BookPic
+{
+    width:50px;
+    }
+    
+    
+    
+/* BookDetail样式 */
+.divPic
+{
+    width:100%;
+ }
+.divbookinfo
+{
+    position:absolute;
+    top:28%;
+    right:25%;
+    width:500px;
+    height:230px;
+    border:2px solid;
+    text-align:center;
+    line-height:35px;
+    }
+.book-title
+{
+    position:absolute;
+    text-align:right;
+    top:21.5%;
+    right:35%;
+    }
+#labBookName
+{
+    text-align:center;
+    }
+.BookDetail-main
+{
+    border:1px solid;
+    width:100%;
+    padding-bottom:80px;
+    height:500px;
+}
+.divtext
+{
+    width:81%;
+    padding-left:5%;
+    border:1px solid black;
+    margin-left:5%;
+    padding-bottom:5%;
+}
+.distance
+{
+    height:10px;
+    width:100%;
+    }
+
+/* cart样式 */
+.C-BookID,.C-BookPic,.C-BookPrice,.C-BookNeedNum,.C-BookName
+{
+    width:180px;
+    height:100px;
+    text-align:center;
+    }
+.cart-bottom
+{
+    text-align:center;
+    font-size:20px;
+    }
+    
+    
+/* Order样式 */
+.O-OrderID,.O-cdate,.O-OrderState,.O-Tel,.O-address,.O-PriceSum,.O-BookID,.O-BookPic,.O-BookName,.O-BookPrice
+{
+    width:180px;
+    height:100px;
+    text-align:center;
+    }
+.Order-bottom
+{
+    text-align:right;
+    }   
+ 

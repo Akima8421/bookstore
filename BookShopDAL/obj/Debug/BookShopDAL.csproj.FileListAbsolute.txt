@@ -1,0 +1,28 @@
+C:\Users\Administrator\Desktop\电子商务\EC_BookShop\BookShopDAL\bin\Debug\BookShopDAL.dll
+C:\Users\Administrator\Desktop\电子商务\EC_BookShop\BookShopDAL\bin\Debug\BookShopDAL.pdb
+C:\Users\Administrator\Desktop\电子商务\EC_BookShop\BookShopDAL\obj\Debug\BookShopDAL.dll
+C:\Users\Administrator\Desktop\电子商务\EC_BookShop\BookShopDAL\obj\Debug\BookShopDAL.pdb
+C:\Users\Administrator\Desktop\电子商务\EC_BookShop\BookShopDAL\obj\Debug\BookShopDAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\电子商务\EC_10\EC_BookShop\BookShopDAL\bin\Debug\BookShopDAL.dll
+C:\Users\Administrator\Desktop\电子商务\EC_10\EC_BookShop\BookShopDAL\bin\Debug\BookShopDAL.pdb
+C:\Users\Administrator\Desktop\电子商务\EC_10\EC_BookShop\BookShopDAL\obj\Debug\BookShopDAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\电子商务\EC_10\EC_BookShop\BookShopDAL\obj\Debug\BookShopDAL.dll
+C:\Users\Administrator\Desktop\电子商务\EC_10\EC_BookShop\BookShopDAL\obj\Debug\BookShopDAL.pdb
+C:\Users\TSC\Desktop\EC_10\EC_BookShop\BookShopDAL\bin\Debug\BookShopDAL.dll
+C:\Users\TSC\Desktop\EC_10\EC_BookShop\BookShopDAL\bin\Debug\BookShopDAL.pdb
+C:\Users\TSC\Desktop\EC_10\EC_BookShop\BookShopDAL\obj\Debug\BookShopDAL.csprojResolveAssemblyReference.cache
+C:\Users\TSC\Desktop\EC_10\EC_BookShop\BookShopDAL\obj\Debug\BookShopDAL.dll
+C:\Users\TSC\Desktop\EC_10\EC_BookShop\BookShopDAL\obj\Debug\BookShopDAL.pdb
+C:\Users\TSC\Desktop\EC_BookShop\BookShopDAL\bin\Debug\BookShopDAL.dll
+C:\Users\TSC\Desktop\EC_BookShop\BookShopDAL\bin\Debug\BookShopDAL.pdb
+C:\Users\TSC\Desktop\EC_BookShop\BookShopDAL\obj\Debug\BookShopDAL.csprojResolveAssemblyReference.cache
+C:\Users\TSC\Desktop\EC_BookShop\BookShopDAL\obj\Debug\BookShopDAL.dll
+C:\Users\TSC\Desktop\EC_BookShop\BookShopDAL\obj\Debug\BookShopDAL.pdb
+D:\ASPWeb\EC_10\BookShopDAL\bin\Debug\BookShopDAL.dll
+D:\ASPWeb\EC_10\BookShopDAL\bin\Debug\BookShopDAL.pdb
+D:\ASPWeb\EC_10\BookShopDAL\obj\Debug\BookShopDAL.dll
+D:\ASPWeb\EC_10\BookShopDAL\obj\Debug\BookShopDAL.pdb
+C:\Users\SYK\Documents\WeChat Files\kafeixinyuan\FileStorage\File\2021-04\仁济第02组-课程项目代码\仁济第02组-课程项目代码\bookshop\BookShopDAL\bin\Debug\BookShopDAL.dll
+C:\Users\SYK\Documents\WeChat Files\kafeixinyuan\FileStorage\File\2021-04\仁济第02组-课程项目代码\仁济第02组-课程项目代码\bookshop\BookShopDAL\bin\Debug\BookShopDAL.pdb
+C:\Users\SYK\Documents\WeChat Files\kafeixinyuan\FileStorage\File\2021-04\仁济第02组-课程项目代码\仁济第02组-课程项目代码\bookshop\BookShopDAL\obj\Debug\BookShopDAL.dll
+C:\Users\SYK\Documents\WeChat Files\kafeixinyuan\FileStorage\File\2021-04\仁济第02组-课程项目代码\仁济第02组-课程项目代码\bookshop\BookShopDAL\obj\Debug\BookShopDAL.pdb

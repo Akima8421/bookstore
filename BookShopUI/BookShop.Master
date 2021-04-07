@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="BookShop.master.cs" Inherits="BookShopUI.BookShop" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link rel="Stylesheet" href="CSS/BookShopStyle01.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="header">
+        <h1>BookShop标题栏</h1>
+    </div>
+    <div class="topnav">
+        <a href="#">首页</a>
+        <a href="#">新闻浏览</a>
+        <a href="#">图书浏览</a>
+    </div>
+    <div class="row">
+        <form id="form1" runat="server">
+        <div class="column side">
+            <h2>左边栏</h2>
+            <p>登录窗口</p>
+            <p>用户信息面板</p>
+        </div>
+        <div class="column main">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                
+            </asp:ContentPlaceHolder>
+        </div>
+        <div class="column side">
+            <h2>右边栏</h2>
+            <p>公告窗口</p>
+            <p>显示网站通知</p>
+        </div>
+        </form>
+    </div>
+    <div class="footer">
+        <h2>网站的基本链接和网站注册信息</h2>
+    </div>
+</body>
+</html>

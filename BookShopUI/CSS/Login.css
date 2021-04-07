@@ -1,0 +1,32 @@
+﻿.Login_top{
+	margin-top:11%;
+	text-align:center;
+	}
+#RequiredFieldValidator1{
+	color:Red;
+	}
+#RequiredFieldValidator2{
+	color:Red;
+	}
+#cbxRemeberUser{
+	color:Red;
+	}
+.L1{
+	text-align:center;
+    }
+.L2{
+	text-align:center;
+	}
+.L3{
+	text-align:center;
+	}
+.L4{
+	text-align:center;
+	}
+body
+{
+ 	background-image: url(./image/P1.jpg);
+    background-repeat:no-repeat;
+ 	}   
+
+          
